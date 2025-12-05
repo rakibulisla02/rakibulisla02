@@ -1,33 +1,38 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Vibe%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Automation%20Developer-7C4DFF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Futurology-FF4DA6?style=for-the-badge" />
-  </p>
-
+  <img src="https://img.shields.io/badge/Automation%20Developer-7C4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Futurology-FF4DA6?style=for-the-badge" />
+  <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 <div align="center">
-## 🌌 About Me <br>
-I'm an AI + Automation builder obsessed with creating **small, powerful tools**, assistants, and systems that save time and make life easier.  
-I learn fast, ship fast, and iterate even faster.
+
+## 🌌 About Me  
+I build AI tools, agents, and automations that actually work.  
+I learn fast. Ship fast. Improve nonstop.
+
 </div>
 
+---
 
 <div align="center">
-# 🚀  মই কি কি বনাওঁ  
+
+# 🚀 মই কি বানাওঁ  
 - 🤖 **AI Assistants & Agents**  
 - ⚙️ **Automation Systems**  
-- 🧩 **Dev Utilities (small, sharp tools)**  
+- 🧩 **Developer Utilities**  
 - 🌐 **Web Apps & Dashboards**  
-- 🧠 **Learning Projects (GenAI, RAG, Vector DBs)**  
+- 🧠 **GenAI + RAG Experiments**
 
-> **I don't talk about building — I actually build.**  
-> **মই কোৱা নহয় — কৰো।**
+> **I don’t hype. I build.**  
+> **মই কথা নহয় — কাম কৰো।**
+
 </div>
 
-# 🛠 Skills & Tools |
+---
 
+# 🛠 Skills & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,tailwind,git,github,vscode" />
 </p>
@@ -39,33 +44,28 @@ I learn fast, ship fast, and iterate even faster.
 ---
 
 # 📌 Featured Work  
-> These are the types of projects I build. I keep shipping, improving & refining.  
-> *(Pin your real repos once you add them.)*
+> I build small, sharp, useful things. Real output > empty talk.
 
-### 🔹 **about**  
-Who I am & what I love doing.
-
-### 🔹 **AI Agent Projects**  
-Tiny agents that automate real workflows.
-
-### 🔹 **Automation Playbooks**  
-Small scripts that save 10–100 hours.
+### 🔹 **About** – Who I am & what I do  
+### 🔹 **AI Agents** – Tiny systems that automate real work  
+### 🔹 **Automation Scripts** – Tools that save hours  
 
 ---
 
 # 🎯 বৰ্তমান লক্ষ্য  
-প্ৰতিদিন শিকো, নতুন চিন্তা আৰু নতুন প্ৰজেক্ট গঢ়ো।  
-AI কৌশলত নিজকে বিশ্বমানৰ কৰাৰ লক্ষ্য।
+প্ৰতিদিন শিকোঁ, গঢ়োঁ, আৰু আগুৱাই যাওঁ।  
+AI দক্ষতাক বিশ্বমানৰলৈ লৈ যোৱাৰ লক্ষ্য।
 
 ---
 
-# 📈 Stats 
+# 📈 Stats  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rakibulisla02&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
+---
 
-# 🌍 Connect With Me 
+# 🌍 Connect  
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibulisla02)
@@ -73,13 +73,9 @@ AI কৌশলত নিজকে বিশ্বমানৰ কৰাৰ ল�
 
 </div>
 
-
-# ⭐ ব্যক্তিগত দৰ্শন  
+---
 
 <div align="center">
-  <h3>Dream. Plan. Achieve.</h3>
+  <h3>Dream. Build. Repeat.</h3>
+  <i>Made with ♥️ by Rakibul — Always Building.</i>
 </div>
-
-
-
-<p align="center"><i>Made with ♥️ by Rakibul — Always Learning, Always Building.</i></p>
