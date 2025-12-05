@@ -7,12 +7,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-
+<div align="center">
 # 🌌 About Me
 I'm an AI + Automation builder obsessed with creating **small, powerful tools**, assistants, and systems that save time and make life easier.  
 I learn fast, ship fast, and iterate even faster.
+</div>
 
 
+<div align="center">
 # 🚀  মই কি কি বনাওঁ  
 - 🤖 **AI Assistants & Agents**  
 - ⚙️ **Automation Systems**  
@@ -22,6 +24,7 @@ I learn fast, ship fast, and iterate even faster.
 
 > **I don't talk about building — I actually build.**  
 > **মই কোৱা নহয় — কৰো।**
+</div>
 
 # 🛠 Skills & Tools |
 
