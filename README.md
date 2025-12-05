@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-# 🌌 About Me
+## 🌌 About Me <br>
 I'm an AI + Automation builder obsessed with creating **small, powerful tools**, assistants, and systems that save time and make life easier.  
 I learn fast, ship fast, and iterate even faster.
 </div>
