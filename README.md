@@ -26,14 +26,16 @@ I build fast, learn fast, and keep leveling up.
 <div align="center">
 
 # 🚀 মই কি কি বনাওঁ  
-- 🤖 **AI Assistants & Agents**  
-- ⚙️ **Automation Systems**  
-- 🧩 **Developer Utilities**  
-- 🎮 **AI-Powered Games**  
+- 🤖 **AI Assistants & Agents**
+- Tiny autonomous systems that automate real work, run tasks, and handle operations without human effort.    
+- 🧩 **Developer Utilities**
+- Focused utilities that simplify coding, testing, debugging, and integrating AI systems.
+- 🎮 **AI-Powered Games**
+- Fun, interactive experiments that mix creativity with AI logic — entertaining but still functional.
 - 📚 **Informative + Educational Tools**
-  Small, sharp utilities that deliver clarity, insights, and fast knowledge when you need it.
+- Small, sharp utilities that deliver clarity, insights, and fast knowledge when you need it.
 
-> **মই কথা নহয় — কাম কৰো।**
+> মই কথা নহয় — কাম কৰো।**
 
 </div>
 
