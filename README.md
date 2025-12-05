@@ -9,7 +9,7 @@
 <div align="center">
 
 ## 🌌 About Me  
-I build AI tools, agents, and automations that actually work.  
+I build AI tools, agents, automations, **AI-powered games**, and **informative tools** that actually work.  
 I learn fast. Ship fast. Improve nonstop.
 
 </div>
@@ -22,6 +22,8 @@ I learn fast. Ship fast. Improve nonstop.
 - 🤖 **AI Assistants & Agents**  
 - ⚙️ **Automation Systems**  
 - 🧩 **Developer Utilities**  
+- 🎮 **AI-Powered Games**  
+- 📚 **Informative + Educational Tools**  
 - 🌐 **Web Apps & Dashboards**  
 - 🧠 **GenAI + RAG Experiments**
 
@@ -49,6 +51,8 @@ I learn fast. Ship fast. Improve nonstop.
 ### 🔹 **About** – Who I am & what I do  
 ### 🔹 **AI Agents** – Tiny systems that automate real work  
 ### 🔹 **Automation Scripts** – Tools that save hours  
+### 🔹 **AI-Powered Mini Games** – Fun + functional  
+### 🔹 **Informative Tools** – Quick knowledge + clarity  
 
 ---
 
