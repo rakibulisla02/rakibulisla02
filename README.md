@@ -1,8 +1,7 @@
 <div align="center">
   <!-- Hero Banner (SVG Inline Compatible Image Link) -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=32&duration=2500&pause=800&color=00E1FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rakibul+🚀+|+ৰকিবুল;AI+%26+Automation+Builder;Always+Learning+⚡+Always+Building" />
-  </h1>
+ </h1>
 
   <p>
     <img src="https://img.shields.io/badge/AI%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
