@@ -32,8 +32,6 @@ If it fails, I refine it.
 - 📚 **Informative + Educational Tools**
 - Small, sharp utilities that deliver clarity, insights, and fast knowledge when you need it.
 
-> মই কথা নহয় — কাম কৰো।
-
 </div>
 
 ---
