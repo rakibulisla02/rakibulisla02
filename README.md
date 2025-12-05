@@ -17,7 +17,6 @@ I love playing with AI — building things just to see what’s possible.
 If an idea pops up, I prototype it.
 If it works, I ship it.
 If it fails, I refine it.
-I build fast, learn fast, and keep leveling up.
 
 </div>
 
@@ -28,8 +27,6 @@ I build fast, learn fast, and keep leveling up.
 # 🚀 মই কি কি বনাওঁ  
 - 🤖 **AI Assistants & Agents**
 - Tiny autonomous systems that automate real work, run tasks, and handle operations without human effort.    
-- 🧩 **Developer Utilities**
-- Focused utilities that simplify coding, testing, debugging, and integrating AI systems.
 - 🎮 **AI-Powered Games**
 - Fun, interactive experiments that mix creativity with AI logic — entertaining but still functional.
 - 📚 **Informative + Educational Tools**
@@ -52,7 +49,8 @@ I build fast, learn fast, and keep leveling up.
 
 ---
 
-> I build small, sharp, useful things. Real output > empty talk.
+> I build small, sharp, useful things.
+>  Real output > empty talk.
 
 ---
 
