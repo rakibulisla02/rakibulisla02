@@ -1,9 +1,5 @@
-<!-- Ultra Aesthetic GitHub Profile README for Rakibul | ৰকিবুল -->
-
 <div align="center">
   <!-- Hero Banner (SVG Inline Compatible Image Link) -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="100%" />
-
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=32&duration=2500&pause=800&color=00E1FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rakibul+🚀+|+ৰকিবুল;AI+%26+Automation+Builder;Always+Learning+⚡+Always+Building" />
   </h1>
