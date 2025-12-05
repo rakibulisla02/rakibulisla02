@@ -1,139 +1,114 @@
-<!-- BEYOND ULTRA AESTHETIC README — Rakibul | ৰকিবুল -->
+<!-- Ultra Aesthetic GitHub Profile README for Rakibul | ৰকিবুল -->
 
 <div align="center">
+  <!-- Hero Banner (SVG Inline Compatible Image Link) -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="100%" />
 
-<!-- Neon Hologram Name -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=34&pause=1200&color=00E1FF&center=true&vCenter=true&width=900&lines=Rakibul+Islam+🚀+|+ৰকিবুল;AI+Engineer+%7C+Automation+Builder+%7C+Future+Tech;Always+Learning+⚡+Always+Building" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=32&duration=2500&pause=800&color=00E1FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rakibul+🚀+|+ৰকিবুল;AI+%26+Automation+Builder;Always+Learning+⚡+Always+Building" />
+  </h1>
 
-<!-- Neon Divider -->
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/matrix.svg" width="100%" />
+  <p>
+    <img src="https://img.shields.io/badge/AI%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Automation%20Developer-7C4DFF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Future%20Tech%20Enthusiast-FF4DA6?style=for-the-badge" />
+  </p>
 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 ---
 
-# 🌌 About Me | মোৰ বিষয়ে
+# 🌌 About Me | মোৰ বিষয়ে  
 
 ### 🇬🇧 English  
-I build **AI tools, assistants, and automation systems** that save time and solve real problems.  
-I learn fast. I execute fast. I improve nonstop.
+I'm an AI + Automation builder obsessed with creating **small, powerful tools**, assistants, and systems that save time and make life easier.  
+I learn fast, ship fast, and iterate even faster.
 
 ### 🇦🇸 Assamese  
-মই **AI সহায়ক, Automation প্ৰণালী আৰু উপযোগী টুল** সৃষ্টি কৰো।  
-দ্ৰুত শিকো, দ্ৰুত কাৰ্যকৰী কৰো, আৰু সদায় উন্নতি কৰো।
+মই AI আৰু Automationৰ সহায়ত **শক্তিশালী আৰু উপযোগী টুল** বনাওঁ।  
+নতুন কৌশল তৎপৰভাৱে শিকো আৰু কাম কৰি দেখুৱাওঁ — কোৱা নাই, সরাসৰি কৰা।
 
 ---
 
-# ⚡ What I Build | মই কি কি বনাওঁ  
-- 🤖 AI Assistants, Agents, Automations  
-- ⚙️ Productivity Tools & Dev Utilities  
-- 🌐 Clean, Fast Web Apps  
-- 🧠 GenAI Projects (RAG, VectorDB, Embeddings)  
-- 🔧 Anything that saves time and reduces friction  
+# 🚀 What I Build | মই কি কি বনাওঁ  
+- 🤖 **AI Assistants & Agents**  
+- ⚙️ **Automation Systems**  
+- 🧩 **Dev Utilities (small, sharp tools)**  
+- 🌐 **Web Apps & Dashboards**  
+- 🧠 **Learning Projects (GenAI, RAG, Vector DBs)**  
+
+> **I don't talk about building — I actually build.**  
+> **মই কোৱা নহয় — কৰো।**
 
 ---
 
+# 🛠 Skills & Tools | দক্ষতা  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,tailwind,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Stack-OpenAI%20%7C%20LangChain%20%7C%20VectorDB-00E1FF?style=flat-square" />
+</p>
+
+---
+
+# 📌 Featured Work  
+> These are the types of projects I build. I keep shipping, improving & refining.  
+> *(Pin your real repos once you add them.)*
+
+### 🔹 **about**  
+Who I am & what I love doing.
+
+### 🔹 **AI Agent Projects**  
+Tiny agents that automate real workflows.
+
+### 🔹 **Automation Playbooks**  
+Small scripts that save 10–100 hours.
+
+---
+
+# 🎯 Current Focus | বৰ্তমান লক্ষ্য  
+
+### English  
+Building aggressively. Learning daily. Becoming world-class at AI development.
+
+### Assamese  
+প্ৰতিদিন শিকো, নতুন চিন্তা আৰু নতুন প্ৰজেক্ট গঢ়ো।  
+AI কৌশলত নিজকে বিশ্বমানৰ কৰাৰ লক্ষ্য।
+
+---
+
+# 📈 GitHub Stats (Aesthetic Mode)
 <div align="center">
-  
-# 🔮 My Tech Stack  
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,tailwind,git,github,vscode" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibulisla02&theme=tokyonight&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakibulisla02&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
-
-# 🔥 Hologram Panels (AI Themes)
-
-<table>
-<tr>
-<td>
-
-### 🧠 AI Engineering  
-LLMs • Agents • RAG • Embeddings  
-LangChain • OpenAI • Automation
-
-</td>
-<td>
-
-### ⚙️ Automation  
-Workflows • Scripts • Task Runners  
-APIs • Bots • System Tools
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🌐 Web Development  
-Lightweight, fast, functional apps  
-Optimized for utility & clarity
-
-</td>
-<td>
-
-### 🎯 Philosophy  
-**Build → Improve → Repeat**  
-শিকিছো → কৰিব লাগিব → অগ্ৰসৰ হওঁ
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-<!-- Neon Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.svg" width="100%" />
-</div>
-
-# 📈 GitHub Engine Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rakibulisla02&theme=tokyonight&show_icons=true&hide_border=true" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rakibulisla02&theme=tokyonight&hide_border=true" height="160" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rakibulisla02&theme=tokyonight&margin-w=15&no-frame=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-<div align="center">
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-<!-- Cyberpunk Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
 
 # 🌍 Connect With Me | যোগাযোগ কৰক  
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibulisla02)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibulisla02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibul-islam)
 
 </div>
 
 ---
 
-# ⭐ Philosophy | দৰ্শন  
+# ⭐ Philosophy | ব্যক্তিগত দৰ্শন  
 
 <div align="center">
   <h3>Dream. Plan. Achieve.<br>শ্বপ্ন দেখা — পৰিকল্পনা — অর্জন</h3>
 </div>
 
+---
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/matrix.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="100%" />
 </div>
 
-<p align="center"><i>Built with ⚡ focus — Always Learning, Always Building.</i></p>
+<p align="center"><i>Made with ⚡ focus by Rakibul — Always Learning, Always Building.</i></p>
