@@ -20,8 +20,6 @@ If it fails, I refine it.
 
 </div>
 
----
-
 <div align="center">
 
 # 🚀 মই কি কি বনাওঁ  
