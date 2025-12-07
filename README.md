@@ -46,6 +46,38 @@ If it fails, I refine it.
 >  Real output > empty talk.
 
 ---
+## ⭐ Featured Projects  
+A curated collection of my best live projects focused on **education, AI awareness, and AI tools discovery** — all fully responsive, fast, and production-ready.
+
+---
+
+### 🎮 Curious Kids — Interactive 3D Learning Game (Ages 8–15)  
+A fun, browser-based 3D knowledge game that helps kids learn science, space, animals, technology, and general knowledge through **quizzes, facts, and exploration**. No login required. Works perfectly on mobile and desktop.
+
+🔗 **Live Demo:** https://curious-kids-game.netlify.app/  
+🛠 **Stack:** HTML • Tailwind CSS • JavaScript • Three.js  
+🎯 **Built for:** Kids, parents, schools, educators  
+
+---
+
+### 🤖 AI Guidebook — AI Explained for Everyone  
+A beginner-friendly, interactive guide that simplifies **Artificial Intelligence** for all age groups — covering history, how AI works, real-life uses, risks, careers, and the future in a clean, visual format.
+
+🔗 **Visit the Guide:** https://aiguidebook.netlify.app/  
+📘 **Covers:** AI Basics • Real Use Cases • Ethics • Jobs • Future  
+🎯 **Built for:** Students, creators, parents, lifelong learners  
+
+---
+
+### 🛠 ToolsTok.ai — AI Tools Discovery Platform  
+A fast, modern directory to **discover, filter, and submit powerful AI tools** across categories like productivity, design, marketing, coding, and automation — built to help people use AI faster and smarter.
+
+🔗 **Explore Now:** https://toolstok.netlify.app/  
+⚡ **Features:** Tool listings • Categories • Submissions  
+🎯 **Built for:** Founders, creators, marketers, businesses  
+
+---
+
 
 # 🎯 বৰ্তমান লক্ষ্য  
 প্ৰতিদিন শিকোঁ, গঢ়োঁ, আৰু আগুৱাই যাওঁ। 
