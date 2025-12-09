@@ -22,7 +22,7 @@ If it fails, I refine it.
 
 <div align="center">
 
-# 🚀 What I DO
+# 🚀 What I Build
 
 - 🤖 **AI First Websites** — I design and develop modern, dynamic websites enhanced with AI — fast, clean, and built to outperform anything in the market.  
 - 🎮 **AI-Powered Games** — Fun, interactive experiments that mix creativity with AI logic — entertaining *and* functional.  
