@@ -22,7 +22,7 @@ If it fails, I refine it.
 
 <div align="center">
 
-# 🚀 মই কি কি বনাওঁ  
+# 🚀 What I DO
 
 - 🤖 **AI First Websites** — I design and develop modern, dynamic websites enhanced with AI — fast, clean, and built to outperform anything in the market.  
 - 🎮 **AI-Powered Games** — Fun, interactive experiments that mix creativity with AI logic — entertaining *and* functional.  
@@ -79,8 +79,8 @@ A fast, modern directory to **discover, filter, and submit powerful AI tools** a
 ---
 
 
-# 🎯 বৰ্তমান লক্ষ্য  
-প্ৰতিদিন শিকোঁ, গঢ়োঁ, আৰু আগুৱাই যাওঁ। 
+# 🎯 Focus 
+Failing fast so I can learn faster
 
 ---
 
