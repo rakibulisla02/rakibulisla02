@@ -1,106 +1,412 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=00E1FF&center=true&vCenter=true&width=650&lines=Rakibul+Islam;AI+%7C+Automation+%7C+Builder;Always+Learning.+Always+Building." />
-</h1>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Vibe%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation%20Developer-7C4DFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Futurology-FF4DA6?style=for-the-badge" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+  <title>Rakibul Islam | AI-First Builder · Websites · Automation · Assam, India</title>
 
-<div align="center">
+  <meta name="description" content="Rakibul Islam — AI-first builder from Assam, India. I design AI-powered websites, autonomous systems, mini-games, and educational tools. Available for projects & consulting." />
 
-## 🌌 About Me  
-I love playing with AI - building things just to see what’s possible.
-If an idea pops up, I prototype it.
-If it works, I ship it.
-If it fails, I refine it.
+  <meta name="keywords" content="Rakibul Islam, AI builder Assam, AI developer India, AI websites, automation developer, AI games, React developer Assam, LangChain developer, AI portfolio" />
 
-</div>
+  <meta name="author" content="Rakibul Islam" />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+  <link rel="canonical" href="https://rakibul-labs.netlify.app/" />
 
-<div align="center">
+  <!-- Local SEO Signals -->
+  <meta name="geo.region" content="IN-AS" />
+  <meta name="geo.placename" content="Barpeta, Assam, India" />
+  <meta name="geo.position" content="26.322;91.005" />
+  <meta name="ICBM" content="26.322, 91.005" />
 
-# 🚀 What I Build
+  <!-- Mobile / UI -->
+  <meta name="theme-color" content="#0b1020" />
 
-- 🤖 **AI First Websites** — I design and develop modern, dynamic websites enhanced with AI — fast, clean, and built to outperform anything in the market.  
-- 🎮 **AI-Powered Games** — Fun, interactive experiments that mix creativity with AI logic — entertaining *and* functional.  
-- 📚 **Informative + Educational Tools** — Small, sharp utilities that deliver clarity, insights, and fast knowledge when you need it.
+  <!-- Favicon -->
+  <link rel="icon" href="https://i.ibb.co/WNjQnZXW/IMG-20251019-051828270-2-copy-1065x987.jpg" />
 
-</div>
----
+  <!-- Open Graph (Social Sharing) -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Rakibul Islam | AI-First Builder · Websites · Automation" />
+  <meta property="og:description" content="Portfolio — AI-first websites, AI-powered games, autonomous micro-systems, and educational tools." />
+  <meta property="og:url" content="https://rakibul-labs.netlify.app/" />
+  <meta property="og:image" content="https://i.ibb.co/WNjQnZXW/IMG-20251019-051828270-2-copy-1065x987.jpg" />
+  <meta property="og:site_name" content="Rakibul Labs" />
 
-# 🛠 Skills & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,tailwind,git,github,vscode" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Rakibul Islam | AI-First Builder" />
+  <meta name="twitter:description" content="AI-first websites, automation systems, mini-games & educational tools." />
+  <meta name="twitter:image" content="https://i.ibb.co/WNjQnZXW/IMG-20251019-051828270-2-copy-1065x987.jpg" />
+
+  <!-- Search Console -->
+  <meta name="google-site-verification" content="mXy3TdqZ7XN3-XkpGtX99dpsc7Mo-m_xE_9BUa18crY" />
+
+  <!-- Structured Data (Rich Results Ready) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Rakibul Islam",
+    "url": "https://rakibul-labs.netlify.app/",
+    "image": "https://i.ibb.co/WNjQnZXW/IMG-20251019-051828270-2-copy-1065x987.jpg",
+    "jobTitle": "AI-First Builder · Automation Developer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Rakibul Labs"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Barpeta",
+      "addressRegion": "Assam",
+      "addressCountry": "India"
+    },
+    "sameAs": [
+      "https://github.com/rakibulisla02",
+      "https://www.linkedin.com/in/rakibulisla02/"
+    ]
+  }
+  </script>
+
+  <!-- Performance Hint -->
+  <link rel="preconnect" href="https://cdn.tailwindcss.com" />
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; overflow-x: hidden; }
+    .glow { text-shadow: 0 6px 30px rgba(124,77,255,0.12); }
+    .nav-backdrop{background:linear-gradient(90deg, rgba(11,16,32,0.6), rgba(11,16,32,0.8));}
+    .glass-card { 
+      background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.02) 100%); 
+      backdrop-filter: blur(10px); 
+      border: 1px solid rgba(255,255,255,0.08); 
+      transition: all 0.3s ease;
+    }
+    .glass-card:hover { 
+      transform: translateY(-5px); 
+      box-shadow: 0 10px 40px rgba(0,225,255,0.2);
+      border-color: rgba(0,225,255,0.3);
+    }
+    @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+    .float-anim { animation: float 3s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+    .pulse-anim { animation: pulse 2s ease-in-out infinite; }
+    @keyframes slideIn { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+    .slide-in { animation: slideIn 0.6s ease-out forwards; }
+    .gradient-text { 
+      background: linear-gradient(135deg, #00e1ff 0%, #7c4dff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    .rotate-slow { animation: rotate 20s linear infinite; }
+    
+    ::-webkit-scrollbar { width: 10px; }
+    ::-webkit-scrollbar-track { background: #0b1020; }
+    ::-webkit-scrollbar-thumb { background: linear-gradient(180deg, #00e1ff 0%, #7c4dff 100%); border-radius: 5px; }
+    ::-webkit-scrollbar-thumb:hover { background: linear-gradient(180deg, #00b8cc 0%, #6a3ddb 100%); }
+  </style>
+</head>
+<body class="bg-[#0b1020] text-slate-100 antialiased">
+
+  <nav class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between sticky top-0 z-50 bg-[#0b1020]/80 backdrop-blur-md">
+    <div class="flex items-center gap-3">
+      <div class="w-10 h-10 rounded-full ring-2 ring-indigo-500 overflow-hidden">
+        <img src="https://i.ibb.co/WNjQnZXW/IMG-20251019-051828270-2-copy-1065x987.jpg" alt="Rakibul Islam, AI builder from Assam, standing above the clouds wearing a colorful Pi t-shirt" loading="lazy" class="w-full h-full object-cover" />
+      </div>
+      <div>
+        <h1 class="text-lg font-semibold"><span lang="as">ৰকিবুল ইছলাম</span></h1>
+        <p class="text-xs text-slate-400">Vibe Engineer · Builder · Futurist</p>
+      </div>
+    </div>
+
+    <div class="hidden md:flex items-center gap-6 text-sm">
+      <a href="#what" class="hover:text-[#00e1ff] transition-colors">What I Do</a>
+      <a href="#who" class="hover:text-[#00e1ff] transition-colors">Who I Am</a>
+      <a href="#education" class="hover:text-[#00e1ff] transition-colors">Education</a>
+      <a href="#projects" class="hover:text-[#00e1ff] transition-colors">Projects</a>
+      
+      <div class="flex items-center gap-4 border-l border-white/10 pl-6 ml-2">
+        <a href="https://github.com/rakibulisla02" target="_blank" aria-label="GitHub" class="hover:text-[#00e1ff] transition-transform hover:scale-110">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 .5C5.73.5.5 5.73.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56 0-.28-.01-1.02-.02-2-3.2.69-3.88-1.54-3.88-1.54-.53-1.36-1.3-1.72-1.3-1.72-1.06-.72.08-.71.08-.71 1.17.08 1.79 1.2 1.79 1.2 1.04 1.78 2.72 1.26 3.38.96.11-.75.41-1.26.75-1.55-2.56-.29-5.26-1.28-5.26-5.69 0-1.26.45-2.29 1.19-3.09-.12-.29-.52-1.47.11-3.06 0 0 .97-.31 3.18 1.18a11.06 11.06 0 012.9-.39c.98 0 1.97.13 2.9.39 2.21-1.49 3.18-1.18 3.18-1.18.63 1.59.23 2.77.11 3.06.74.8 1.19 1.83 1.19 3.09 0 4.42-2.7 5.39-5.28 5.67.42.36.8 1.07.8 2.16 0 1.56-.01 2.82-.01 3.2 0 .31.21.68.8.56C20.71 21.38 24 17.08 24 12c0-6.27-5.23-11.5-12-11.5z"/></svg>
+        </a>
+        <a href="https://www.linkedin.com/in/rakibulisla02/" target="_blank" aria-label="LinkedIn" class="hover:text-[#00e1ff] transition-transform hover:scale-110">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24"><path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.11 1 2.5 1 4.98 2.12 4.98 3.5zM.5 8h4V24h-4zM9 8h3.64v2.16h.05c.51-.97 1.76-1.99 3.63-1.99 3.88 0 4.59 2.56 4.59 5.88V24h-4v-7.56c0-1.8-.03-4.12-2.51-4.12-2.51 0-2.89 1.96-2.89 3.99V24H9z"/></svg>
+        </a>
+        <a href="#contact" class="bg-indigo-600/90 px-4 py-1 rounded text-sm hover:bg-indigo-500 transition-colors">Contact</a>
+      </div>
+    </div>
+
+    <button id="menuBtn" class="md:hidden p-2 rounded bg-white/5" aria-label="Open menu">
+      <svg id="menuOpen" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" /></svg>
+      <svg id="menuClose" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
+    </button>
+  </nav>
+
+  <div id="mobileNav" class="fixed inset-0 hidden z-[60]">
+    <div class="nav-backdrop absolute inset-0 backdrop-blur-sm" aria-hidden="true"></div>
+    <div class="absolute top-0 right-0 w-3/4 max-w-xs h-full bg-[#061124] p-6 shadow-2xl">
+      <div class="flex items-center justify-between">
+        <div class="flex items-center gap-3">
+          <img src="https://i.ibb.co/WNjQnZXW/IMG-20251019-051828270-2-copy-1065x987.jpg" alt="Rakibul Islam, AI builder from Assam, wearing a black Pi t-shirt" loading="lazy" class="w-10 h-10 rounded-full object-cover" />
+          <div>
+            <div class="font-semibold">Rakibul Islam</div>
+            <div class="text-xs text-slate-400">Vibe Engineer</div>
+          </div>
+        </div>
+        <button id="closeMobile" class="p-2 rounded bg-white/5" aria-label="Close menu">✕</button>
+      </div>
+      <nav class="mt-6 flex flex-col gap-4 text-slate-200">
+        <a href="#what" class="py-2 mobile-link">What I Do</a>
+        <a href="#who" class="py-2 mobile-link">Who I Am</a>
+        <a href="#education" class="py-2 mobile-link">Education</a>
+        <a href="#projects" class="py-2 mobile-link">Projects</a>
+        <div class="flex gap-4 py-4">
+           <a href="https://github.com/rakibulisla02" target="_blank" class="p-2 bg-white/5 rounded">GitHub</a>
+           <a href="https://www.linkedin.com/in/rakibulisla02/" target="_blank" class="p-2 bg-white/5 rounded">LinkedIn</a>
+        </div>
+        <a href="#contact" class="py-2 bg-indigo-600/80 px-3 rounded inline-block w-max mobile-link">Contact</a>
+      </nav>
+    </div>
+  </div>
+
+  <section class="max-w-6xl mx-auto px-6 mt-12">
+    <div class="grid lg:grid-cols-2 gap-8 items-center">
+      <div class="space-y-6">
+        <div class="inline-block px-3 py-1 bg-indigo-500/20 rounded-full text-xs text-indigo-300 mb-2 pulse-anim">✨ Available for Projects</div>
+        <h2 class="text-4xl lg:text-6xl font-extrabold glow leading-tight">I build <span class="gradient-text">AI-first</span> websites and autonomous micro-systems.</h2>
+        <p class="text-slate-300 text-lg max-w-2xl">Modern websites with real AI power — fast, sharp, and built for product-market fit. I ship real products: AI-first sites, AI-driven mini-games, and educational tools built to teach and scale.</p>
+        <p class="text-slate-400 text-sm max-w-2xl">
+  Working with local founders, students, and small teams.
 </p>
+        <div class="flex gap-4 flex-wrap">
+          <a href="#projects" class="px-6 py-3 bg-gradient-to-r from-[#00e1ff] to-[#00b8cc] text-black rounded-lg font-medium shadow-lg hover:shadow-xl hover:scale-105 transition-all">See Projects</a>
+          <a href="#contact" class="px-6 py-3 border-2 border-slate-600 rounded-lg text-slate-300 hover:border-[#00e1ff] hover:text-[#00e1ff] transition-all">Work with me</a>
+        </div>
+        <div class="mt-8 p-4 glass-card rounded-lg inline-block">
+          <div class="text-sm text-slate-400 mb-2"><strong class="text-slate-200">Tech Stack:</strong></div>
+          <div class="flex flex-wrap gap-2">
+            <span class="px-3 py-1 bg-yellow-500/10 text-yellow-300 rounded text-xs border border-yellow-500/30">JavaScript</span>
+            <span class="px-3 py-1 bg-purple-500/10 text-purple-300 rounded text-xs border border-purple-500/30">Claude</span>
+            <span class="px-3 py-1 bg-blue-500/10 text-blue-300 rounded text-xs border border-blue-500/30">AI</span>
+            <span class="px-3 py-1 bg-green-500/10 text-green-300 rounded text-xs border border-green-500/30">React</span>
+            <span class="px-3 py-1 bg-cyan-500/10 text-cyan-300 rounded text-xs border border-cyan-500/30">Python</span>
+            <span class="px-3 py-1 bg-indigo-500/10 text-indigo-300 rounded text-xs border border-indigo-500/30">LangChain</span>
+            <span class="px-3 py-1 bg-pink-500/10 text-pink-300 rounded text-xs border border-pink-500/30">OpenAI</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<p align="center">
-<img src="https://img.shields.io/badge/GenAI%20Stack-OpenAI%20%7C%20LangChain%20%7C%20HuggingFace%20%7C%20DeepSeek%20%7C%20Claude%20%7C%20Gemini%20%7C%20Grok%20%7C%20Midjourney%20%7C%20ElevenLabs-6A00FF?style=flat-square" />
-</p>
+  <section id="what" class="max-w-6xl mx-auto px-6 mt-20">
+    <div class="text-center mb-12">
+      <h3 class="text-3xl font-bold mb-3">What I Do</h3>
+      <p class="text-slate-300 max-w-3xl mx-auto">I build small, sharp, useful products that solve real problems...</p>
+    </div>
+    <div class="grid md:grid-cols-3 gap-6">
+      <div class="glass-card p-8 rounded-xl group relative overflow-hidden"> 
+        <div class="absolute inset-0 bg-gradient-to-br from-indigo-500/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+        <div class="text-4xl mb-4">🤖</div>
+        <h4 class="font-semibold text-xl mb-2">AI-First Websites</h4>
+        <p class="text-slate-300 text-sm leading-relaxed">Modern web products with AI-enhanced features — personalization, automation, and fast UX.</p>
+      </div>
+      <div class="glass-card p-8 rounded-xl group relative overflow-hidden"> 
+        <div class="absolute inset-0 bg-gradient-to-br from-cyan-500/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+        <div class="text-4xl mb-4">🎮</div>
+        <h4 class="font-semibold text-xl mb-2">AI-Powered Games</h4>
+        <p class="text-slate-300 text-sm leading-relaxed">Interactive, educational mini-games that teach and entertain while demonstrating AI capabilities.</p>
+      </div>
+      <div class="glass-card p-8 rounded-xl group relative overflow-hidden"> 
+        <div class="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+        <div class="text-4xl mb-4">📚</div>
+        <h4 class="font-semibold text-xl mb-2">Educational Tools</h4>
+        <p class="text-slate-300 text-sm leading-relaxed">Tiny utilities and dashboards that deliver quick insights and help people learn faster.</p>
+      </div>
+    </div>
+  </section>
 
----
+  <section id="who" class="max-w-6xl mx-auto px-6 mt-16">
+    <div class="grid lg:grid-cols-2 gap-8 items-center">
+      <div>
+        <h3 class="text-2xl font-bold">Who I Am.</h3>
+        <p class="mt-3 text-slate-300 max-w-xl" lanf="as">মই দ্ৰুত prototype তৈয়াৰ কৰোঁ, সঘনাই release কৰোঁ, আৰু অন্তহীন কথাতকৈ বাস্তৱ ফলাফলক অধিক মূল্য দিওঁ। মোৰ কামত product চিন্তাধাৰা, পৰিষ্কাৰ code, আৰু আধুনিক AI tools'ৰ সমন্বয় থাকে। মই ফাউণ্ডাৰ আৰু ক্ৰিয়েটৰসকলক ধাৰণাৰ পৰা কাৰ্যক্ষম প্ৰডাক্টলৈ দ্ৰুত আগবঢ়াত সহায় কৰোঁ।</p>
 
-> I build small, sharp, useful things.
->  Real output > empty talk.
+        <ul class="mt-6 space-y-3 text-sm text-slate-300">
+          <li>• Founder / Builder mindset</li>
+          <li>• Product-first rapid builds</li>
+          <li>• Practical automation and integration</li>
+        </ul>
+      </div>
+      <div class="glass-card p-6 rounded-xl">
+        <img src="https://i.ibb.co/WNjQnZXW/IMG-20251019-051828270-2-copy-1065x987.jpg" alt="Rakibul Islam, AI builder from Assam, wearing a black Pi t-shirt" class="w-full h-64 object-cover rounded-lg" />
+        <div class="mt-4 text-sm text-slate-300">Based in Barpeta, Assam, India — open to remote work and short-term consulting.</div>
+      </div>
+    </div>
+  </section>
 
----
-## ⭐ Featured Projects  
-A curated collection of my best live projects focused on **education, AI awareness, and AI tools discovery** — all fully responsive, fast, and production-ready.
+  <section id="education" class="max-w-6xl mx-auto px-6 mt-16">
+    <h3 class="text-2xl font-bold">Education & Learning</h3>
+    <p class="mt-2 text-slate-300 max-w-3xl">Lifelong learner. I combine formal study and hands-on projects to stay ahead of the curve.</p>
 
----
+    <div class="mt-6"> 
+      <ol class="border-l border-slate-700">
+        <li class="mb-6 ml-6">
+          <span class="text-slate-300 font-semibold">B.Tech — Computer Science (in progress)</span>
+          <div class="text-sm text-slate-400">Core focus: automation, meme culture, and futurology.</div>
+        </li>
+        <li class="mb-6 ml-6">
+          <span class="text-slate-300 font-semibold">Self-directed — GenAI & Vibe Engineering</span>
+          <div class="text-sm text-slate-400">Vibe Stack · LangChain · OpenAI · React · Prompting · Rapid Prototyping.</div>
+        </li>
+      </ol>
+    </div>
+  </section>
 
-### 🎮 Curious Kids — Interactive 3D Learning Game (Ages 8–15)  
-A fun, browser-based 3D knowledge game that helps kids learn science, space, animals, technology, and general knowledge through **quizzes, facts, and exploration**.
+  <section id="projects" class="max-w-6xl mx-auto px-6 mt-20">
+    <div class="text-center mb-12">
+      <h3 class="text-3xl font-bold mb-3">Projects</h3>
+      <p class="text-slate-300 max-w-2xl mx-auto">Real products shipped and live in production...</p>
+    </div>
+    <div class="grid md:grid-cols-2 gap-8">
+      <div class="glass-card p-8 rounded-xl group relative overflow-hidden"> 
+        <div class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-indigo-500/20 to-transparent rounded-full blur-2xl group-hover:scale-150 transition-transform"></div>
+        <div class="relative">
+          <div class="flex items-start justify-between mb-4">
+            <div class="text-3xl">🛠️</div>
+            <span class="px-3 py-1 bg-green-500/20 text-green-300 rounded-full text-xs">Live</span>
+          </div>
+          <h4 class="font-semibold text-xl mb-3"><a href="https://toolstok.netlify.app/" target="_blank">ToolsTok.ai — AI tools directory</a></h4>
+          <p class="text-slate-300 text-sm leading-relaxed mb-4">A curated collection of modern AI tools and demos with clean discovery UX.</p>
+          <div class="flex gap-2 flex-wrap">
+            <span class="text-xs px-2 py-1 bg-blue-500/10 text-blue-300 rounded border border-blue-500/30">React</span>
+            <span class="text-xs px-2 py-1 bg-purple-500/10 text-purple-300 rounded border border-purple-500/30">AI</span>
+            <span class="text-xs px-2 py-1 bg-cyan-500/10 text-cyan-300 rounded border border-cyan-500/30">Directory</span>
+          </div>
+        </div>
+      </div>
+      <div class="glass-card p-8 rounded-xl group relative overflow-hidden"> 
+        <div class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-cyan-500/20 to-transparent rounded-full blur-2xl group-hover:scale-150 transition-transform"></div>
+        <div class="relative">
+          <div class="flex items-start justify-between mb-4">
+            <div class="text-3xl">⬇️</div>
+            <span class="px-3 py-1 bg-yellow-500/20 text-yellow-300 rounded-full text-xs">MVP</span>
+          </div>
+          <h4 class="font-semibold text-xl mb-3">Shorts Video Downloader</h4>
+          <p class="text-slate-300 text-sm leading-relaxed mb-4">Download any shorts instantly. Fast. Clean. Reliable.</p>
+          <div class="flex gap-2 flex-wrap">
+            <span class="text-xs px-2 py-1 bg-red-500/10 text-red-300 rounded border border-red-500/30">Video</span>
+            <span class="text-xs px-2 py-1 bg-green-500/10 text-green-300 rounded border border-green-500/30">Web App</span>
+            <span class="text-xs px-2 py-1 bg-orange-500/10 text-orange-300 rounded border border-orange-500/30">Tools</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-🔗 **Live Demo:** https://curious-kids-game.netlify.app/  
-🛠 **Stack:** HTML • Tailwind CSS • JavaScript • Three.js  
-🎯 **Built for:** Kids, parents, schools, educators  
+  <section id="contact" class="max-w-6xl mx-auto px-6 mt-16 mb-20">
+    <div class="grid lg:grid-cols-2 gap-8 items-start">
+      <div>
+        <h3 class="text-2xl font-bold">Get in touch</h3>
+        <p class="mt-3 text-slate-300">Want custom websites and mini-games or learning tools for your kids — so they learn instead of endlessly scrolling?
+<br>Send a message.</p>
 
----
+        <div class="p-6 rounded-xl glass-card mt-6 relative overflow-hidden">
+          <div aria-hidden="true" class="pointer-events-none absolute inset-0 -z-10 opacity-30" style="background: radial-gradient(400px 200px at 10% 10%, rgba(0,226,255,0.06), transparent), radial-gradient(300px 150px at 90% 90%, rgba(96,165,250,0.04), transparent);"></div>
 
-### 🤖 AI Guidebook — AI Explained for Everyone  
-A beginner-friendly, interactive guide that simplifies **Artificial Intelligence** for all age groups — covering history, how AI works, real-life uses, risks, careers, and the future in a clean, visual format.
+          <form action="https://formsubmit.co/rix781314@gmail.com" method="POST" class="space-y-4" id="contactForm">
+            <input type="hidden" name="_subject" value="New message from portfolio website" />
+            <input type="hidden" name="_captcha" value="false" />
+            <input type="hidden" name="_template" value="box" />
+            <input type="hidden" name="_next" value="https://rakibul-labs.netlify.app/" />
 
-🔗 **Visit the Guide:** https://aiguidebook.netlify.app/  
-📘 **Covers:** AI Basics • Real Use Cases • Ethics • Jobs • Future  
-🎯 **Built for:** Students, creators, parents, lifelong learners  
+            <label class="block text-sm">Your name <input name="name" class="w-full mt-1 px-4 py-2 rounded bg-black/20 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-[#00e1ff] focus:bg-black/30 transition" placeholder="Your name" required /></label>
+            <label class="block text-sm">Email <input name="email" type="email" class="w-full mt-1 px-4 py-2 rounded bg-black/20 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-[#00e1ff] focus:bg-black/30 transition" placeholder="you@email.com" required /></label>
+            <label class="block text-sm">Message <textarea name="message" class="w-full mt-1 px-4 py-2 rounded bg-black/20 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-[#00e1ff] focus:bg-black/30 transition" placeholder="Short message" rows="5" required></textarea></label>
 
----
+            <div class="flex items-center gap-3">
+              <button type="submit" class="px-4 py-2 bg-[#00e1ff] text-black rounded shadow-md hover:shadow-lg active:scale-98 transform transition">Send message</button>
+              <button type="button" id="clearBtn" class="px-4 py-2 border border-white/6 rounded hover:bg-white/3 transition">Clear</button>
+              <div id="formStatus" class="text-sm text-slate-300"></div>
+            </div>
+          </form>
+        </div>
+      </div>
 
-### 🛠 ToolsTok.ai — AI Tools Discovery Platform  
-A fast, modern directory to **discover, filter, and submit powerful AI tools** across categories like productivity, design, marketing, coding, and automation — built to help people use AI faster and smarter.
+      <div class="order-first lg:order-last">
+        <div class="p-6 rounded-xl bg-gradient-to-br from-white/3 to-white/2 border border-white/4 shadow-lg">
+          <div class="flex items-center gap-4">
+            <div class="flex-shrink-0 w-12 h-12 flex items-center justify-center rounded-full bg-white/5">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-[#00e1ff]" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 8.5v7A2.5 2.5 0 005.5 18h13a2.5 2.5 0 002.5-2.5v-7A2.5 2.5 0 0018.5 6h-13A2.5 2.5 0 003 8.5z"/></svg>
+            </div>
+            <div>
+              <div class="text-sm text-slate-300">Prefer quick replies?</div>
+              <div class="mt-1 text-xs text-slate-400">I prioritize practical proposals — short, clear, and actionable.</div>
+            </div>
+          </div>
+          <div class="mt-6 text-xs text-slate-500">Want faster response? Add a precise brief and timeline in your message.</div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-🔗 **Explore Now:** https://toolstok.netlify.app/  
-⚡ **Features:** Tool listings • Categories • Submissions  
-🎯 **Built for:** Founders, creators, marketers, businesses  
+  <footer class="border-t border-white/6 mt-12 py-8 text-center text-sm text-slate-400">
+    <div align="center">
+      <div class="flex items-center justify-center gap-4">
+        <a href="https://github.com/rakibulisla02" target="_blank" aria-label="GitHub" class="inline-flex items-center gap-2 px-3 py-2 bg-white/5 rounded hover:text-[#00e1ff] transition-colors">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.73.5.5 5.73.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56 0-.28-.01-1.02-.02-2-3.2.69-3.88-1.54-3.88-1.54-.53-1.36-1.3-1.72-1.3-1.72-1.06-.72.08-.71.08-.71 1.17.08 1.79 1.2 1.79 1.2 1.04 1.78 2.72 1.26 3.38.96.11-.75.41-1.26.75-1.55-2.56-.29-5.26-1.28-5.26-5.69 0-1.26.45-2.29 1.19-3.09-.12-.29-.52-1.47.11-3.06 0 0 .97-.31 3.18 1.18a11.06 11.06 0 012.9-.39c.98 0 1.97.13 2.9.39 2.21-1.49 3.18-1.18 3.18-1.18.63 1.59.23 2.77.11 3.06.74.8 1.19 1.83 1.19 3.09 0 4.42-2.7 5.39-5.28 5.67.42.36.8 1.07.8 2.16 0 1.56-.01 2.82-.01 3.2 0 .31.21.68.8.56C20.71 21.38 24 17.08 24 12c0-6.27-5.23-11.5-12-11.5z"/></svg>
+          <span class="hidden md:inline">GitHub</span>
+        </a>
 
----
+        <a href="https://www.linkedin.com/in/rakibulisla02/" target="_blank" aria-label="LinkedIn" class="inline-flex items-center gap-2 px-3 py-2 bg-white/5 rounded hover:text-[#00e1ff] transition-colors">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.11 1 2.5 1 4.98 2.12 4.98 3.5zM.5 8h4V24h-4zM9 8h3.64v2.16h.05c.51-.97 1.76-1.99 3.63-1.99 3.88 0 4.59 2.56 4.59 5.88V24h-4v-7.56c0-1.8-.03-4.12-2.51-4.12-2.51 0-2.89 1.96-2.89 3.99V24H9z"/></svg>
+          <span class="hidden md:inline">LinkedIn</span>
+        </a>
 
+        <a href="mailto:rix781314@gmail.com" aria-label="Email" class="inline-flex items-center gap-2 px-3 py-2 rounded text-white bg-blue-600 shadow-[0_0_12px_#3b82f6] hover:shadow-[0_0_18px_#60a5fa] transition-all duration-300">
+          Mail Me
+        </a>
+      </div>
+    </div>
 
-# 🎯 Focus 
-Failing fast so I can learn faster
+    <div class="mt-6 text-xs text-slate-500">
+      © <span id="year"></span> Rakibul Islam. Built with ❤️ in <span lang="as">বৰপেটা</span>
+    </div>
+  </footer>
 
----
+  <script>
+    const menuBtn = document.getElementById('menuBtn');
+    const mobileNav = document.getElementById('mobileNav');
+    const closeMobile = document.getElementById('closeMobile');
+    const menuOpen = document.getElementById('menuOpen');
+    const menuClose = document.getElementById('menuClose');
 
-# 📈 Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakibulisla02&theme=tokyonight&hide_border=true" alt="Rakibul's streak stats" />
-</p>
+    // Toggle Mobile Menu
+    const toggleMenu = () => {
+      mobileNav.classList.toggle('hidden');
+      menuOpen.classList.toggle('hidden');
+      menuClose.classList.toggle('hidden');
+    };
 
----
+    menuBtn.addEventListener('click', toggleMenu);
+    closeMobile.addEventListener('click', toggleMenu);
 
-# 🌍 Connect  
-<div align="center">
+    // Auto-close menu when clicking links
+    document.querySelectorAll('.mobile-link').forEach(link => {
+      link.addEventListener('click', toggleMenu);
+    });
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibulisla02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibulisla02/)
+    document.getElementById('clearBtn')?.addEventListener('click', function(){
+      document.getElementById('contactForm').reset();
+      const status = document.getElementById('formStatus');
+      if(status){ status.textContent = 'Form cleared.'; setTimeout(()=> status.textContent = '',1500); }    
+    });
 
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7C4DFF&center=true&vCenter=true&width=600&lines=Made+by+Rakibul.;Building+Better+Every+Day.;No+Noise.+Only+Output." />
-</h2>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
